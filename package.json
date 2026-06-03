@@ -1,0 +1,26 @@
+{
+  "name": "aulaexpressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx json-server --watch data.json --port $port"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilianneps/aulaExpressJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lilianneps/aulaExpressJS/issues"
+  },
+  "homepage": "https://github.com/lilianneps/aulaExpressJS#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+    
+}

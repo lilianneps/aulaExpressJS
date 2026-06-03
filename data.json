@@ -1,0 +1,36 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Juan Pérez"
+        },
+        {
+            "id": 2,
+            "nome": "María Gómez"
+        },
+        {
+            "id": 3,
+            "nome": "Carlos Rodríguez"
+        }
+        ],
+
+    "jogos": [
+        {
+            "id": 1,
+            "titulo": "The Legend of Zelda: Breath of the Wild",
+            "plataforma": "X-Box"
+        },
+        {
+            "id": 2,
+            "titulo": "Super Mario Odyssey",
+            "plataforma": "Nintendo Switch"
+        },
+        {
+            "id": 3,
+            "titulo": "Minecraft",
+            "plataforma": "Playstation"
+        }
+
+    ]
+}
+
